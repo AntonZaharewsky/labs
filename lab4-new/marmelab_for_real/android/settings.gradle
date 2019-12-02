@@ -1,0 +1,3 @@
+rootProject.name = 'marmelab_for_real'
+
+include ':app'
